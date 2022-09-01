@@ -1,1 +1,1 @@
-Shebangs and scripts
+not empty its about permissions
